@@ -1,0 +1,9 @@
+What is inheritence?
+
+>Inheritence is a new class derived rom an existing class. Classes may inherit or acquire methods of other classes. Subclasses 
+inherits the characteristics of its superclass.
+
+What is Polymorphism?
+
+> Polymorphism is the ability of an object to take on many forms based on the object it is acting upon, it allows one inerface 
+to be used in a general class of actons. 
